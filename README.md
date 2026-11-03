@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hameem%20Mohamed%20Imthath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Team%20Lead%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=16" alt="header" />
+  <img src="./assets/header.svg" alt="header" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/imthathhameem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+apps+that+scale;Angular+%E2%80%A2+Flutter+%E2%80%A2+C%23+%2F+.NET;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Microservices;Lecturer+%26+mentor+at+Unicom+TIC" alt="Typing SVG" />
+    <img src="./assets/typing.svg" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@ values: [clean code, maintainability, collaboration, continuous learning]
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,ts,js,angular,html,css,bootstrap&perline=10" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,firebase,git,github,vscode,visualstudio,postman,figma&perline=10" alt="Databases and tools" />
+  <img src="./assets/skills-1.svg" alt="Languages and frameworks" /><br/>
+  <img src="./assets/skills-2.svg" alt="Databases and tools" />
 </p>
 
 | Area | Technologies |
@@ -153,5 +153,5 @@ values: [clean code, maintainability, collaboration, continuous learning]
 I'm always happy to connect with developers, educators and people building useful digital products — whether it's collaborating on a project, exchanging ideas or contributing to open source.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+  <img src="./assets/footer.svg" alt="footer" width="100%" />
 </p>
