@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/header.svg" alt="header" width="100%" />
+  <img src="https://raw.githubusercontent.com/imthathhameem/imthathhameem/main/assets/header.svg?v=2" alt="Hameem Mohamed Imthath — Team Lead, Full-Stack & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
